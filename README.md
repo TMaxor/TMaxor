@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @TMaxor
-- 👀 I’m interested in: Coding & Engineering
-- 🌱 I’m currently learning: C in class
-- 📫 How to reach me: tmaxor@pm.me
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am alive
+- 👩🏼‍💻I’m interested in: Coding & Engineering
+- 📚 I’m currently learning: C in class
+- ✉️ How to reach me: tmaxor@pm.me
+- 🙋🏼‍♀️Pronouns: She/Her
 
  _________        _____ ______   ________     ___    ___ ________  ________     
 |\___   ___\     |\   _ \  _   \|\   __  \   |\  \  /  /|\   __  \|\   __  \    
